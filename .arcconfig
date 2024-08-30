@@ -1,0 +1,5 @@
+{
+  "project_id" : "MachineLearningDev",
+  "phabricator.uri" : "http://phabricator.htsc.com/",
+  "repository.callsign": "ALPHA"
+}
